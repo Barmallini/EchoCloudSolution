@@ -8,7 +8,7 @@
   <NetworkConfiguration>
     <AddressAssignments>
       <ReservedIPs>
-        <ReservedIP name="MyReservedIPddddddddd" />
+        <ReservedIP name="MyReservedIP" />
       </ReservedIPs>
     </AddressAssignments>
   </NetworkConfiguration>
