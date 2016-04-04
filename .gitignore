@@ -279,6 +279,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
+#eee
 *.cscfg
 EchoCloud/ServiceConfiguration.cscfg

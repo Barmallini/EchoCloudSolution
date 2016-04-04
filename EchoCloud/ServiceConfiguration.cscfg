@@ -2,7 +2,7 @@
 <ServiceConfiguration serviceName="EchoCloud" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceConfiguration" osFamily="3" osVersion="*" schemaVersion="2015-04.2.6">
   <Role name="EchoWorker">
     <Instances count="1" />
-    <ConfigurationSettings>
+    <ConfigurationSettings ff="gg">
     </ConfigurationSettings>
   </Role>
   <NetworkConfiguration>
