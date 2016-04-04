@@ -280,7 +280,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-#cscfg
-*.cscfg
-
 *.cscfg
