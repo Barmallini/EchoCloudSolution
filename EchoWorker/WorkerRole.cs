@@ -36,7 +36,7 @@ namespace EchoWorker
         public Double longtitude { get; set; }
 
     }
-
+    //test
     public class WorkerRole : RoleEntryPoint
     {
         private AutoResetEvent connectionWaitHandle = new AutoResetEvent(false);
