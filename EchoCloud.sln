@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "EchoCloud", "EchoCloud\EchoCloud.ccproj", "{5E42AB07-8162-492F-BC08-8453F75CFB29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EchoWorker", "EchoWorker\EchoWorker.csproj", "{5FC252ED-1096-45A6-99B8-D2F61F0F90D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetLogs", "GetLogs\GetLogs.csproj", "{8B50E20E-3D0C-4CF5-801C-5AF9BEA4A739}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E42AB07-8162-492F-BC08-8453F75CFB29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E42AB07-8162-492F-BC08-8453F75CFB29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E42AB07-8162-492F-BC08-8453F75CFB29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E42AB07-8162-492F-BC08-8453F75CFB29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FC252ED-1096-45A6-99B8-D2F61F0F90D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FC252ED-1096-45A6-99B8-D2F61F0F90D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FC252ED-1096-45A6-99B8-D2F61F0F90D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FC252ED-1096-45A6-99B8-D2F61F0F90D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B50E20E-3D0C-4CF5-801C-5AF9BEA4A739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B50E20E-3D0C-4CF5-801C-5AF9BEA4A739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B50E20E-3D0C-4CF5-801C-5AF9BEA4A739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B50E20E-3D0C-4CF5-801C-5AF9BEA4A739}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
